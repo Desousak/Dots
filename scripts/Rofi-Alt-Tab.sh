@@ -1,0 +1,1 @@
+(rofi -show window -kb-cancel "Alt+Escape,Escape" -kb-accept-entry "!Alt-Tab,Return" -kb-row-down "Alt+Tab,Alt+Down"  -font "Monospace 10" -kb-row-up "Alt+ISO_Left_Tab,Alt+Up"	& sleep 0.12 && xdotool key Tab)

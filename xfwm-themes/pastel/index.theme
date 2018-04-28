@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=pastel
+Comment=simple
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=pastel
+MetacityTheme=pastel
+ButtonLayout=:minimize,maximize,close,menu
